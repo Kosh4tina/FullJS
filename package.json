@@ -1,0 +1,17 @@
+{
+  "name": "js_rt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^17.0.1",
+    "nodemon": "^2.0.14"
+  }
+}
