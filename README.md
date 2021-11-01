@@ -7,6 +7,6 @@
 ### Getting start
 
 * Download project
-* cd CountBotTG
+* cd FullJS
 * npm install
 * npm run dev
