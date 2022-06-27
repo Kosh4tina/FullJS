@@ -12,14 +12,14 @@
 * `npm run dev`
 
 #### Full course
-* 01. TYPES
-* 02. VALUES AND LINKS
-* 03. SCOPE
-* 04. HOISTING
-* 05. LET AND CONST
-* 06. CLOSURES
-* 07. IIFE (Immediate Invoke Function Expression)
-* 08. CONTEXT
-* 09. NEW
-* 10. PROTOTYPES
-* 11. ASYNC
+1. TYPES
+2. VALUES AND LINKS
+3. SCOPE
+4. HOISTING
+5. LET AND CONST
+6. CLOSURES
+7. IIFE (Immediate Invoke Function Expression)
+8. CONTEXT
+9. NEW
+10. PROTOTYPES
+11. ASYNC
